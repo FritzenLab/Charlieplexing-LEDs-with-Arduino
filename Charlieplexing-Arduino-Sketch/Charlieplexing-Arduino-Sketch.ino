@@ -11,21 +11,21 @@ void setup() {
 void loop() {
 
     led1();
-    delay(100);
+    delay(62);
     led5();
-    delay(100);
+    delay(62);
     led2();
-    delay(100);
+    delay(62);
     led6();
-    delay(100);
+    delay(62);
     led3();
-    delay(100);
+    delay(62);
     led7();
-    delay(100);
+    delay(62);
     led4();
-    delay(100);
+    delay(62);
     led8();
-    delay(100);
+    delay(62);
   
 }
 
